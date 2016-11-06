@@ -1,0 +1,36 @@
+---
+layout: default
+---
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="1;url=portfolio/index.html">
+    <script type="text/javascript">
+      window.location.href = "portfolio/index.html"
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    If you are not redirected automatically, follow the 
+    <a href="portfolio">link</a>.
+  </body>
+
+<div class="header-bar">
+  <h1>*folio</h1>
+  <h2>simple whitespace theme</h2>
+  <br/>
+  <hr>
+  <br/>
+</div>
+
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul>
