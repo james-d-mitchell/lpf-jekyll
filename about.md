@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 Camouflaged by the impulse of being seen as abstract, most of my work is on the limit of possible acknowledgement of what is being represented.
 
-For more information about available art work, prices or anything else please get in touch with me at: [laurapelsferra.art@gmail.com](laurapelsferra.art@gmail.com)
+For more information about available art work, prices or anything else please get in touch with me at: [laurapelsferra.art@gmail.com](mailto:laurapelsferra.art@gmail.com)
 
 
 <br/>
