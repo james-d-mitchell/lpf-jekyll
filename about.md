@@ -4,18 +4,12 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/IMG_2193_cropped.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite
-<a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture
-in, too. The code is already in, just name your picture "prof_pic.jpg" and put
-it in the img folder. 
+Camouflaged by the impulse of being seen as abstract, most of my work is on the limit of possible acknowledgement of what is being represented.
 
-Link to your social media connections, too. This theme is set up to use <a
-href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome
-icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just
-disable all of them. 
+For more information about available art work, prices or anything else please get in touch with me at: [laurapelsferra.art@gmail.com](laurapelsferra.art@gmail.com)
 
 
 <br/>
