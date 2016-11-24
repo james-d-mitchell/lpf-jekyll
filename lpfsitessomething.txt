@@ -1,0 +1,2 @@
+Added images and some text to each project page.
+Messed up the project thumbnails on front page because I changed the image file names and when I changed the names in the portfolio markdown it didn't work, for some reason. A couple of thumbnails did remain, and I looked at it to figure out what I did wrong in the others, but haven't managed to figure it out.

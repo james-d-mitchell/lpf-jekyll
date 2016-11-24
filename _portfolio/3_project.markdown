@@ -1,55 +1,53 @@
 ---
 layout: post
 title: Project
-description: a project that redirects to another website
-img: /img/wastenocigarettes1.jpg
+description: Out of Pattern
+img: /img/LPFthumbnaildoimaginario.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+Out of Pattern
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/LPF_doimaginario.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	'Do imaginario' 2014
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/LPF_wastenocigarettes.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	'Waste no cigarettes' 2007
 </div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/LPF_stillunderway.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	'Still Underway' 2006
 </div>
-
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/LPF_G4JR9943.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	'Sultan of Sulking' 2006
+</div>
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/LPF_G4JR9940.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	'something' 2006
+</div>
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/LPF_G4JR9942.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	'First Good Second Better' 2006
+</div>
 
 <br/><br/><br/>
 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+This selection of works is part of a series called 'Out of Pattern'. It started with a small number of gouache on paper paintings that were exhibited in 2006 in Galeria ArtFit in Lisbon, Portugal. The underlying inspirations of the stylized motifs in these works are not always apparent, but they are always based on my personal life and surroundings.
+<br/>
+This particular series is all about pattern and line; sometimes they look like they dilute each other or renew themselves as a single organism and other times they seem more like two autonomous opponents in conflict, claiming a disticntive pattern for themselves.
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
